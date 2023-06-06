@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    background-color: black;
+
+}
+.heading{
+    text-align: center;
+    color: #ffffff;
+    margin-top: 10px;
+    font-size: 60px;
+}
+table{
+    margin-left: 120px;
+    margin-top: 40px;
+}
+td{
+    color: #ffffff;
+    text-align: center;
+    border: 1px solid white;
+    width: 4vw;
+    font-weight: 700;
+    size: 12px;
+}
+.none {
+    border: none;
+}
+.orangecell{
+    background-color: orange;
+}
+.bluecell{
+    background-color: skyblue;
+}
+.yellowcell{
+    background-color: #E5D68A;
+}
+.greencell{
+    background-color: #66AD47;
+}
